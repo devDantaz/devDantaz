@@ -5,16 +5,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_thiagodantaz/)
 
 
-![Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=devDantaz&show_icons=true&theme=dracula)
+![Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=devDantaz&show_icons=true&theme=highcontrast)
 
 
-<<div  align="center"> 
+<div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-  <img align ="center" alt ="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align ="center" alt ="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align ="center" alt ="JAVA" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <h1 align="left">Melhores Tecnologias <3</h1>
+  <img align ="left" alt ="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align ="left" alt ="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align ="left" alt ="JAVA" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   
 
  </div> 
