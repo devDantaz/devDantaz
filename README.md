@@ -13,8 +13,7 @@
     <h1 align="left">Melhores Tecnologias <3</h1>
   <img align ="left" alt ="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align ="left" alt ="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align ="left" alt ="JAVA" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  
+
 
  </div> 
 
